@@ -1,38 +1,37 @@
 # Hi there, I'm Rosa 👋
 
-🎓 **Student @ Purdue University Indianapolis**
+🎓 B.S. Computer Science, Purdue University Indianapolis (May 2026)
+
+💼 Software Engineering Intern @ E-gineering (2025, 2026)
+
+🔍 Seeking Full-Time Software Engineering Opportunities
 
 ---
 
-## 👩‍💻 About Me
+I'm a software developer interested in web development, IoT, automation, and building practical tools that solve real-world problems.
 
-- 🚀 I’m passionate about technology, especially **C++** and building with **IoT devices**—I love working with the physical side of computing!
-- 🐍 I also enjoy programming in **Python** and exploring web development with **React**.
-- 🤖 Currently diving into an **AI + IoT project** for my Fall 2025 class—excited to blend intelligence with connected hardware!
+I'm currently completing my second software engineering internship at E-gineering, where I've worked with React applications, improved test coverage, and modernized testing workflows using React Testing Library and Jest.
 
----
+Some of my favorite projects combine software with the real world — like smart plant monitoring systems, sensor data, cloud databases, dashboards, and automation.
 
-## 🌱 What I'm Up To
+## Featured Projects
 
-- 📚 Always learning—whether it’s a new language, framework, or hardware hack.
-- 💡 Exploring how AI can power smarter IoT devices.
+### Intelligent IoT Plant Monitoring System
 
----
+Capstone project using ESP32 hardware, Supabase, Python analysis, and a web dashboard to monitor plant health and predict soil moisture trends.
 
-## 🎬 Beyond Code
+### Plant Buddy
 
-- 📖 Avid reader—there’s always a book on my nightstand!
-- 🍿 Movie & TV enthusiast (current obsession: **Dexter**).
-- 👨‍👩‍👦‍👦 Love spending time with family.
+AIoT smart plant monitoring and watering system built with a teammate using ESP32, Edge Impulse, Supabase, sensors, and automated watering.
 
----
+### Small Business Automation
 
-## 🔭 Looking Ahead
+Building websites and chatbot-style tools to help local businesses answer common questions, collect leads, and improve their online presence.
 
-I’m excited to keep learning, building, and connecting with the open source community here on GitHub. If you’re interested in IoT, Python, or just want to chat about tech or books, feel free to connect!
+## Tech I'm Working With
 
----
+React, JavaScript, TypeScript, Python, Java, C++, HTML/CSS, Jest, React Testing Library, Supabase, Arduino/ESP32
 
-<!--
-**rsierrav/rsierrav** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+## Let's Connect
+
+Portfolio: **rsierrav.com**
