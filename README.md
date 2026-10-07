@@ -1,16 +1,13 @@
 # Hi there, I'm Rosa 👋
 
 🎓 B.S. Computer Science, Purdue University Indianapolis (May 2026)
-
-💼 Software Engineering Intern @ E-gineering (2025, 2026)
-
-🔍 Seeking Full-Time Software Engineering Opportunities
+👩‍💻 Software Developer @ E-gineering 
 
 ---
 
 I'm a software developer interested in web development, IoT, automation, and building practical tools that solve real-world problems.
 
-I'm currently completing my second software engineering internship at E-gineering, where I've worked with React applications, improved test coverage, and modernized testing workflows using React Testing Library and Jest.
+I have completed my second software engineering internship at E-gineering, where I've worked with React applications, improved test coverage, and modernized testing workflows using React Testing Library and Jest. I have also completed a second project where we improved that document signing process for truck drivers delivering steel. 
 
 Some of my favorite projects combine software with the real world — like smart plant monitoring systems, sensor data, cloud databases, dashboards, and automation.
 
