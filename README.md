@@ -1,6 +1,7 @@
 # Hi there, I'm Rosa 👋
 
 🎓 B.S. Computer Science, Purdue University Indianapolis (May 2026)
+
 👩‍💻 Software Developer @ E-gineering 
 
 ---
